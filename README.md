@@ -1,24 +1,22 @@
-# Unit 19 React Homework: Employee Directory
+# Employee Directory
 
-## Overview
+### Welcome to my [Employee Directory](https://bnguyen467.github.io/employee-directory/)
 
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+# Description
 
-## User Story
+This react application allows users to view entire employee directory at once. The users will be able to see employee's basic information, sort, or filter the table by first name, last name, email, or phone number.
 
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+# Installation:
 
-## Business Context
+1. Clone the folder from github
+2. In the terminal, run the command "npm i"
+3. To run the application, run the command "npm start"
 
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+## Questions
 
-## Acceptance Criteria
+Find me on github: [bnguyen467](https://github.com/bnguyen467)
+Contact me through email: 467bnguyen@gmail.com
 
-Given a table of random users, when the user loads the page, a table of employees should render. 
+## To view the application, [click here](https://bnguyen467.github.io/employee-directory/)
 
-The user should be able to:
-
-  * Sort the table by at least one category
-
-  * Filter the users by at least one property.
-
+![example-image](./src/assets/img/example-image.png)
